@@ -4,6 +4,8 @@
 
 ## Welcome! 👋
 
+###<h3>Live: </h3> <h4>[QR code component](https://hilla10.github.io/qr-code-component/)</h4>
+
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
